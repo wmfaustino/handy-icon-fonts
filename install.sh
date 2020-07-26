@@ -7,7 +7,7 @@
 # AUTHOR        : Wilson Faustino <open source (a) wfaustino dev>
 
 # DATE          : 2020-jul-26
-# VERSION       : 1.0.0    
+# VERSION       : 1.1.0    
 
 # USAGE		      : ./install.sh
 # DEPENDENCIES  : fontconfig fontconfig-config libfontconfig1 libfontconfig1-dev libxft-dev libxft2 libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0 libpangomm-1.4-1v5 libpangomm-1.4-dev libpangoxft-1.0-0 libotf0
@@ -44,6 +44,8 @@ fonts="\
 	Icons South St.ttf
 	Linearicons-Free.ttf
 	materialdesignicons-webfont.ttf
+  Noto Emoji Nerd Font Complete Mono.ttf
+  Noto Emoji Nerd Font Complete.ttf
 	octicons.ttf
 	original-source.otf
 	Pomicons.otf
