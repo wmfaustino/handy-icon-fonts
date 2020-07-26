@@ -67,7 +67,7 @@ _main(){
   printf "%s\n\n" "Preparing to install icon fonts..." 
 	_installFont "$fonts"
 
-  printf "%s\n" "Refreshing font cache"
+  printf "\n%s\n" "Refreshing font cache"
 	_refreshFontCache
 	
 	exit 0
