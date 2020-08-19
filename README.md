@@ -17,6 +17,11 @@ Enjoy it!!!
 ```sh
 curl -L https://github.com/wmfaustino/handy-icon-fonts/raw/master/install.sh | sh
 ```
+or
+```sh
+git clone https://github.com/wmfaustino/handy-icon-fonts.git && cd handy-icon-fonts && sh install.sh
+```
+
 
 ## Dependencies
 
